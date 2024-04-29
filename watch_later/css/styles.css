@@ -1,0 +1,115 @@
+.history
+{
+  margin-top: 0px !important;
+}
+
+.history .button-line
+{
+  display: flex;
+}
+
+.history .button-line button
+{
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #E1E9F3;
+  margin-right: 10px;
+}
+
+.history .favorites svg
+{
+  margin: 0px !important;
+}
+
+.history .favorites
+{
+  padding: 10px 15px !important;
+}
+
+.history .button-line button:hover
+{
+  background: #F1F8FF;
+  border: 1px solid #F1F8FF;
+}
+
+.history .button-line svg
+{
+  margin-right: 10px;
+}
+
+.history .button-line span
+{
+  color: #004EA4;
+  font-size: 16px;
+}
+
+.history .favorites svg.active
+{
+  fill: #004EA4 !important;
+}
+
+.history .histiory-box-item
+{
+  margin-bottom: 30px;
+}
+
+.history .title-line
+{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.history .sub-title
+{
+  margin: 0px;
+}
+
+.history .clear-history
+{
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.history .clear-history svg
+{
+  margin-right: 5px;
+}
+
+.history .clear-history span
+{
+  font-size: 16px;
+  color: #004EA4;
+}
+
+.history .time-mark
+{
+  font-size: 15px;
+  color: #7F8692;
+  margin-bottom: 15px;
+}
+
+.history .list-symbol 
+{
+    position: absolute;
+    left: -40px;
+    top: calc(50% - 7px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
